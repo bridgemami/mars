@@ -158,6 +158,11 @@ footer {
 }
 
 
+.intro-image {
+    width: 90%;
+    border-radius: 50%;
+}
+
 /* ----- NAVIGATION ----- */
 
 nav a {
